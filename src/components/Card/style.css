@@ -1,0 +1,22 @@
+.card-container {
+   background: #fff;
+   border-radius: 2px;
+   height: 150px;
+   margin: 1rem;
+   position: relative;
+   width: 150px;
+   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+   text-align: left;
+ }
+
+
+ .img-thumbnail{
+   padding: 2px;
+   margin:0 auto;
+   height:150px;
+   width: 100%;
+   object-fit: cover;
+ }
+
+ 
+

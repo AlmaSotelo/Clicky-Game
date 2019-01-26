@@ -1,0 +1,13 @@
+body{
+   background-color: rgb(58, 110, 206);
+   color:rgb(95, 153, 19);
+}
+
+h1,h2{
+   padding-top:20px;
+   padding-bottom:20px;
+}
+
+.banner{
+   width:100%;
+}

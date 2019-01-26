@@ -1,0 +1,20 @@
+.customnavbarnav{
+   width: 100%; 
+   text-align: center;
+ }
+ .customlist{
+   width: 33.33333333333333%
+ }
+ 
+ .navbar {
+   padding-top: 30px;
+   padding-bottom:30px;
+   color:rgb(180, 180, 211);
+   font-size:24px;
+ }
+ 
+ a{
+   color:white;
+ 
+ }
+ 
