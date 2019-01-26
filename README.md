@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Heroku Deployment] (https://dashboard.heroku.com/apps/stark-refuge-42979)
+Deployment] (https://almasotelo.github.io/Clicky-Game/)
 
 ## Available Scripts
 
